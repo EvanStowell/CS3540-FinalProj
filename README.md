@@ -18,8 +18,10 @@ For the MVP award, panelists submit their top five players using a 10-5-3-2-1 po
 
 ## Research Questions
 ### EDA
+- What position(s) typically win these awards?
+- Which teams have the most winners in each award category?
 - How much greater are award winners than the average player in their position?
-- Are award winners typically on Super Bowl winning teams?
+- Are award winners typically on Super Bowl winning teams? Or even playoff teams?
 
 ### Experiment
 - How accurately can we predict award winners for any given season?
