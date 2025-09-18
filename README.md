@@ -16,5 +16,17 @@ The major titles include:
 ## Voting Process
 For the MVP award, panelists submit their top five players using a 10-5-3-2-1 point system. For other awrds, it is a 5-3-1 point system.
 
+## Research Questions
+### EDA
+- How much greater are award winners than the average player in their position?
+- Are award winners typically on Super Bowl winning teams?
+
+### Experiment
+- How accurately can we predict award winners for any given season?
+- What features are most important in winning each award?
+
+### Conclusions
+- How much does media/narrative impact voting?
+
 ## Links
 https://www.totalprosports.com/nfl/how-the-nfl-honors-voting-works-process-rules-for-nfl-mvp-dpoy-and-more/
