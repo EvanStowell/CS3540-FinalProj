@@ -13,7 +13,7 @@ The major titles include:
 - Defensive Rookie of the Year (DROY)
 - Coach of the Year
 
-## Voting Process
+### Voting Process
 For the MVP award, panelists submit their top five players using a 10-5-3-2-1 point system. For other awrds, it is a 5-3-1 point system.
 
 ## Research Questions
