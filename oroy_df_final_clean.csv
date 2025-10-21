@@ -1,0 +1,186 @@
+Year,Rank,Player,Team,Position,Votes,PFR_Age,G,GS,Pass_Cmp,Pass_Att,Pass_Yds,Pass_TD,Pass_Int,PFR_Rate,Rush_Att,Rush_Yds,Rush_TD,Rec,Rec_Yds,Rec_TD
+2024,1,Jayden Daniels,Washington Commanders,QB,115.0,24.0,17,17,331.0,480,3568,25,9.0,100.1,148.0,891.0,6.0,0.0,0,0
+2024,2,Brock Bowers,Las Vegas Raiders,TE,50.0,,17,16,,0,0,0,,,5.0,13.0,0.0,112.0,1194,5
+2024,3,Bo Nix,Denver Broncos,QB,36.0,24.0,17,17,376.0,567,3775,29,12.0,93.3,92.0,430.0,4.0,1.0,2,1
+2024,4,Brian Thomas,Jacksonville Jaguars,WR,19.0,,17,16,,0,0,0,,,6.0,48.0,0.0,87.0,1282,10
+2024,5,Malik Nabers,New York Giants,WR,12.0,21.0,15,13,0.0,1,0,0,0.0,39.6,5.0,2.0,0.0,109.0,1204,7
+2024,6,Bucky Irving,Tampa Bay Buccaneers,RB,7.0,,17,3,,0,0,0,,,207.0,1122.0,8.0,47.0,392,0
+2024,7,Joe Alt,Los Angeles Chargers,OT,2.0,,16,16,,0,0,0,,,,,,,0,0
+2024,8,Drake Maye,New England Patriots,QB,1.0,22.0,13,12,225.0,338,2276,15,10.0,88.1,54.0,421.0,2.0,0.0,0,0
+2024,9,Ladd McConkey,Los Angeles Chargers,WR,1.0,,16,14,,0,0,0,,,0.0,0.0,0.0,82.0,1149,7
+2024,10,Caleb Williams,Chicago Bears,QB,1.0,23.0,17,17,351.0,562,3541,20,6.0,87.8,81.0,489.0,0.0,0.0,0,0
+2023,1,C.J. Stroud,Houston Texans,QB,59.0,22.0,15,15,319.0,499,4108,23,5.0,100.8,39.0,167.0,3.0,1.0,0,0
+2023,2,Puka Nacua,Los Angeles Rams,WR,37.0,,17,17,,0,0,0,,,12.0,89.0,0.0,105.0,1486,6
+2023,3,Sam LaPorta,Detroit Lions,TE,10.0,,17,14,,0,0,0,,,1.0,4.0,0.0,86.0,889,10
+2023,4,Jahmyr Gibbs,Detroit Lions,RB,1.0,,15,3,,0,0,0,,,182.0,945.0,10.0,52.0,316,1
+2023,5,Bijan Robinson,Atlanta Falcons,RB,1.0,,17,16,,0,0,0,,,214.0,976.0,4.0,58.0,487,4
+2023,6,Zay Flowers,Baltimore Ravens,WR,1.0,,16,16,,0,0,0,,,8.0,56.0,1.0,77.0,858,5
+2023,7,Jayden Reed,Green Bay Packers,WR,1.0,,16,13,,0,0,0,,,11.0,119.0,2.0,64.0,793,8
+2023,8,Rashee Rice,Kansas City Chiefs,WR,1.0,,16,8,,0,0,0,,,1.0,-3.0,0.0,79.0,938,7
+2022,1,Garrett Wilson,New York Jets,WR,37.0,22.0,17,12,0.0,1,0,0,0.0,39.6,4.0,4.0,0.0,83.0,1103,4
+2022,2,Kenneth Walker III,Seattle Seahawks,RB,31.0,,15,11,,0,0,0,,,228.0,1050.0,9.0,27.0,165,0
+2022,3,Brock Purdy,San Francisco 49ers,QB,19.0,23.0,9,5,114.0,170,1374,13,4.0,107.3,22.0,13.0,1.0,0.0,0,0
+2022,4,Chris Olave,New Orleans Saints,WR,12.0,,15,9,,0,0,0,,,0.0,0.0,0.0,72.0,1042,4
+2022,5,Tyler Allgeier,Atlanta Falcons,RB,3.0,,16,7,,0,0,0,,,210.0,1035.0,3.0,16.0,139,1
+2022,6,Kenny Pickett,Pittsburgh Steelers,QB,3.0,24.0,13,12,245.0,389,2404,7,9.0,76.7,55.0,237.0,3.0,0.0,0,0
+2022,7,Tyler Linderbaum,Baltimore Ravens,C,1.0,,17,17,,0,0,0,,,,,,,0,0
+2022,8,Christian Watson,Green Bay Packers,WR,1.0,,14,11,,0,0,0,,,7.0,80.0,2.0,41.0,611,7
+2022,9,Dameon Pierce,Houston Texans,RB,1.0,,13,13,,0,0,0,,,220.0,939.0,4.0,30.0,165,1
+2022,10,Isiah Pacheco,Kansas City Chiefs,RB,1.0,,17,11,,0,0,0,,,170.0,830.0,5.0,13.0,130,0
+2021,1,Ja'Marr Chase,Cincinnati Bengals,WR,42.0,,17,17,,0,0,0,,,7.0,21.0,0.0,81.0,1455,13
+2021,2,Mac Jones,New England Patriots,QB,5.0,23.0,17,17,352.0,521,3801,22,13.0,92.5,44.0,129.0,0.0,0.0,0,0
+2021,3,Creed Humphrey,Kansas City Chiefs,OL,2.0,,17,17,,0,0,0,,,,,,,0,0
+2021,4,Rashawn Slater,Los Angeles Chargers,T,1.0,,16,16,,0,0,0,,,,,,,0,0
+2020,1,Justin Herbert,Los Angeles Chargers,QB,41.0,22.0,15,15,396.0,595,4336,31,10.0,98.3,55.0,234.0,5.0,0.0,0,0
+2020,2,Justin Jefferson,Minnesota Vikings,WR,9.0,,16,14,,0,0,0,,,1.0,2.0,0.0,88.0,1400,7
+2019,1,Kyler Murray,Arizona Cardinals,QB,26.5,22.0,16,16,349.0,542,3722,20,12.0,87.4,93.0,544.0,4.0,0.0,0,0
+2019,2,Josh Jacobs,Oakland Raiders,RB,13.0,,13,13,,0,0,0,,,242.0,1150.0,7.0,20.0,166,0
+2019,3,A.J. Brown,Tennessee Titans,WR,9.5,,16,11,,0,0,0,,,3.0,60.0,1.0,52.0,1051,8
+2019,4,Miles Sanders,Philadelphia Eagles,RB,1.0,,16,11,,0,0,0,,,179.0,818.0,3.0,50.0,509,3
+2018,1,Saquon Barkley,New York Giants,RB,26.5,,16,16,,0,0,0,,,261.0,1307.0,11.0,91.0,721,4
+2018,2,Baker Mayfield,Cleveland Browns,QB,21.5,23.0,14,13,310.0,486,3725,27,14.0,93.7,39.0,131.0,0.0,1.0,0,0
+2018,3,Quenton Nelson,Indianapolis Colts,LG,2.0,,16,16,,0,0,0,,,,,,,0,0
+2017,1,Alvin Kamara,New Orleans Saints,rb,28.0,,16,3,,0,0,0,,,120.0,728.0,8.0,81.0,826,5
+2017,2,Kareem Hunt,Kansas City Chiefs,RB,21.0,,16,16,,0,0,0,,,272.0,1327.0,8.0,53.0,455,3
+2017,3,Deshaun Watson,Houston Texans,qb,1.0,22.0,7,6,126.0,204,1699,19,8.0,103.0,36.0,269.0,2.0,0.0,0,0
+2016,1,Dak Prescott,Dallas Cowboys,QB,28.5,23.0,16,16,311.0,459,3667,23,4.0,104.9,57.0,282.0,6.0,,0,0
+2016,2,Ezekiel Elliott,Dallas Cowboys,RB,21.5,,15,15,,0,0,0,,,322.0,1631.0,15.0,32.0,363,1
+2015,1,Todd Gurley,St. Louis Rams,RB,27.0,,13,12,,0,0,0,,,229.0,1106.0,10.0,21.0,188,0
+2015,2,Jameis Winston,Tampa Bay Buccaneers,QB,17.0,,16,16,312.0,535,4042,22,15.0,,54.0,213.0,6.0,,0,0
+2015,3,Amari Cooper,Oakland Raiders,WR,4.0,,16,15,,0,0,0,,,3.0,-3.0,,72.0,1070,6
+2015,4,David Johnson,Arizona Cardinals,rb,1.0,,16,5,,0,0,0,,,125.0,581.0,8.0,36.0,457,4
+2015,5,Tyler Lockett,Seattle Seahawks,WR,1.0,,16,8,,0,0,0,,,5.0,20.0,,51.0,664,6
+2014,1,Odell Beckham Jr.,New York Giants,WR,42.0,,12,11,,1,0,0,,,7.0,35.0,,91.0,1305,12
+2014,2,Zack Martin,Dallas Cowboys,RG,7.0,,16,16,,0,0,0,,,,,,,0,0
+2014,3,Mike Evans,Tampa Bay Buccaneers,WR,1.0,,15,15,,0,0,0,,,,,,68.0,1051,12
+2013,1,Eddie Lacy,Green Bay Packers,RB,35.0,,15,15,,0,0,0,,,284.0,1178.0,11.0,35.0,257,0
+2013,2,Keenan Allen,San Diego Chargers,WR,12.0,,15,14,,0,0,0,,,,,,71.0,1046,8
+2013,3,Giovani Bernard,Cincinnati Bengals,rb,1.0,,16,0,,0,0,0,,,170.0,695.0,5.0,56.0,514,3
+2013,4,Cordarrelle Patterson,Minnesota Vikings,wr,1.0,,16,6,,0,0,0,,,12.0,158.0,3.0,45.0,469,4
+2013,5,Larry Warford,Detroit Lions,RG,1.0,,16,16,,0,0,0,,,,,,,0,0
+2012,1,Robert Griffin III,Washington Redskins,QB,29.0,,15,15,258.0,393,3200,20,5.0,,120.0,815.0,7.0,,0,0
+2012,2,Andrew Luck,Indianapolis Colts,QB,11.0,,16,16,339.0,627,4374,23,18.0,,62.0,255.0,5.0,,0,0
+2012,3,Russell Wilson,Seattle Seahawks,QB,10.0,,16,16,252.0,393,3118,26,10.0,,94.0,489.0,4.0,,0,0
+2011,1,Cam Newton,Carolina Panthers,QB,47.0,,16,16,310.0,517,4051,21,17.0,,126.0,706.0,14.0,1.0,27,0
+2011,2,Andy Dalton,Cincinnati Bengals,QB,3.0,,16,16,300.0,516,3398,20,13.0,,37.0,152.0,1.0,,0,0
+2010,1,Sam Bradford,St. Louis Rams,QB,44.0,,16,16,354.0,590,3512,18,15.0,,27.0,63.0,1.0,,0,0
+2010,2,Mike Williams,Tampa Bay Buccaneers,WR,4.0,,16,16,,0,0,0,,,,,,65.0,964,11
+2010,3,Maurkice Pouncey,Pittsburgh Steelers,C,2.0,,16,16,,0,0,0,,,,,,,0,0
+2009,1,Percy Harvin,Minnesota Vikings,wr,41.0,,15,8,,0,0,0,,,15.0,135.0,,60.0,790,6
+2009,2,Michael Oher,Baltimore Ravens,RT,6.0,,16,16,,0,0,0,,,,,,1.0,-8,0
+2009,3,Jeremy Maclin,Philadelphia Eagles,WR,1.0,,15,13,,0,0,0,,,2.0,-7.0,,56.0,773,4
+2009,4,Knowshon Moreno,Denver Broncos,RB,1.0,,16,9,,0,0,0,,,247.0,947.0,7.0,28.0,213,2
+2009,5,Mike Wallace,Pittsburgh Steelers,WR,1.0,,16,4,,0,0,0,,,5.0,48.0,,39.0,756,6
+2008,1,Matt Ryan,Atlanta Falcons,QB,44.0,,16,16,265.0,434,3440,16,11.0,,55.0,104.0,1.0,,0,0
+2008,2,Chris Johnson,Tennessee Titans,RB,3.0,,15,14,,0,0,0,,,251.0,1228.0,9.0,43.0,260,1
+2008,3,Ryan Clady,Denver Broncos,LT,2.0,,16,16,,0,0,0,,,,,,,0,0
+2008,4,Matt Forte,Chicago Bears,RB,1.0,,16,16,,0,0,0,,,316.0,1238.0,8.0,63.0,477,4
+2007,1,Adrian Peterson,Minnesota Vikings,RB,46.5,,14,9,,0,0,0,,,238.0,1341.0,12.0,19.0,268,1
+2007,2,Joe Thomas,Cleveland Browns,LT,3.5,,16,16,,0,0,0,,,,,,,0,0
+2006,1,Vince Young,Tennessee Titans,QB,23.0,,15,13,184.0,357,2199,12,13.0,,83.0,552.0,7.0,,0,0
+2006,2,Marques Colston,New Orleans Saints,WR,9.0,,14,12,,0,0,0,,,,,,70.0,1038,8
+2006,3,Maurice Jones-Drew,Jacksonville Jaguars,rb,9.0,,16,1,,0,0,0,,,166.0,941.0,13.0,46.0,436,2
+2006,4,Marcus McNeill,San Diego Chargers,LT,6.0,,16,16,,0,0,0,,,,,,,0,0
+2006,5,Reggie Bush,New Orleans Saints,rb,3.0,,16,8,,1,0,0,1.0,,155.0,565.0,6.0,88.0,742,2
+2005,1,Cadillac Williams,Tampa Bay Buccaneers,RB,47.0,,14,14,,0,0,0,,,290.0,1178.0,6.0,20.0,81,0
+2005,2,Reggie Brown,Philadelphia Eagles,WR,1.0,,16,11,,0,0,0,,,1.0,5.0,,43.0,571,4
+2005,3,Logan Mankins,New England Patriots,LG,1.0,,16,16,,0,0,0,,,,,,,0,0
+2005,4,Heath Miller,Pittsburgh Steelers,TE,1.0,,16,15,,0,0,0,,,,,,39.0,459,6
+2004,1,Ben Roethlisberger,Pittsburgh Steelers,QB,48.0,,14,13,196.0,295,2621,17,11.0,,56.0,144.0,1.0,,0,0
+2003,1,Anquan Boldin,Arizona Cardinals,WR,50.0,,16,16,,1,0,0,1.0,,5.0,40.0,,101.0,1377,8
+2002,1,Clinton Portis,Denver Broncos,RB,29.0,,16,12,,0,0,0,,,273.0,1508.0,15.0,33.0,364,2
+2002,2,Jeremy Shockey,New York Giants,TE,17.0,,15,14,,0,0,0,,,,,,74.0,894,2
+2002,3,LeCharles Bentley,New Orleans Saints,RG,1.0,,14,14,,0,0,0,,,,,,,0,0
+2002,4,David Carr,Houston Texans,QB,1.0,,16,16,233.0,444,2592,9,15.0,,59.0,282.0,3.0,,0,0
+2001,1,Anthony Thomas,Chicago Bears,RB,20.0,,14,10,,0,0,0,,,278.0,1183.0,7.0,22.0,178,0
+2001,2,LaDainian Tomlinson,San Diego Chargers,RB,16.0,,16,16,,0,0,0,,,339.0,1236.0,10.0,59.0,367,0
+2001,3,Chris Chambers,Miami Dolphins,wr,7.0,,16,7,,0,0,0,,,1.0,-11.0,,48.0,883,7
+2001,4,Leonard Davis,Arizona Cardinals,RG,5.0,,16,16,,0,0,0,,,,,,,0,0
+2001,5,Dominic Rhodes,Indianapolis Colts,RB,2.0,,15,10,,0,0,0,,,233.0,1104.0,9.0,34.0,224,0
+2000,1,Mike Anderson,Denver Broncos,RB,40.0,,16,12,,0,0,0,,,297.0,1487.0,15.0,23.0,169,0
+2000,2,Jamal Lewis,Baltimore Ravens,RB,10.0,,16,13,,0,0,0,,,309.0,1364.0,6.0,27.0,296,0
+1999,1,Edgerrin James,Indianapolis Colts,RB,49.0,,16,16,,0,0,0,,,369.0,1553.0,13.0,62.0,586,4
+1999,2,Kevin Johnson,Cleveland Browns,WR,1.0,,16,16,,1,0,0,,,1.0,-6.0,,66.0,986,8
+1998,1,Randy Moss,Minnesota Vikings,WR,44.0,,16,11,,0,0,0,,,1.0,4.0,,69.0,1313,17
+1998,2,Peyton Manning,Indianapolis Colts,QB,2.0,,16,16,326.0,575,3739,26,28.0,,15.0,62.0,,,0,0
+1998,3,Fred Taylor,Jacksonville Jaguars,RB,1.0,,15,12,,0,0,0,,,264.0,1223.0,14.0,44.0,421,3
+1997,1,Warrick Dunn,Tampa Bay Buccaneers,RB,28.0,,16,10,,0,0,0,,,224.0,978.0,4.0,39.0,462,3
+1997,2,Corey Dillon,Cincinnati Bengals,RB,13.0,,16,6,,0,0,0,,,233.0,1129.0,10.0,27.0,259,0
+1997,3,Jake Plummer,Arizona Cardinals,QB,4.0,,10,9,157.0,296,2203,15,15.0,,39.0,216.0,2.0,1.0,2,0
+1997,4,Tiki Barber,New York Giants,rb,1.0,,12,6,,0,0,0,,,136.0,511.0,3.0,34.0,299,1
+1997,5,Antowain Smith,Buffalo Bills,rb,1.0,,16,0,,0,0,0,,,194.0,840.0,8.0,28.0,177,0
+1996,1,Eddie George,Houston Oilers,RB,74.0,,16,16,,0,0,0,,,335.0,1368.0,8.0,23.0,182,0
+1996,2,Terry Glenn,New England Patriots,WR,8.0,,15,15,,0,0,0,,,5.0,42.0,,90.0,1132,6
+1996,3,Mike Alstott,Tampa Bay Buccaneers,FB,6.0,,16,16,,0,0,0,,,96.0,377.0,3.0,65.0,557,3
+1996,4,Eddie Kennison,St. Louis Rams,WR,3.0,,15,14,,0,0,0,,,,,,54.0,924,9
+1996,5,Jonathan Ogden,Baltimore Ravens,LG,2.0,,16,16,,0,0,0,,,,,,1.0,1,1
+1995,1,Curtis Martin,New England Patriots,RB,57.0,,16,15,,0,0,0,,,368.0,1487.0,14.0,30.0,261,1
+1995,2,Terrell Davis,Denver Broncos,RB,16.0,,14,14,,0,0,0,,,237.0,1117.0,7.0,49.0,367,1
+1995,3,Joey Galloway,Seattle Seahawks,WR,13.0,,16,16,,0,0,0,,,11.0,154.0,1.0,67.0,1039,7
+1995,4,Kordell Stewart,Pittsburgh Steelers,QB,2.0,,10,2,5.0,7,60,1,,,15.0,86.0,1.0,14.0,235,1
+1994,1,Marshall Faulk,Indianapolis Colts,RB,96.0,,16,16,,0,0,0,,,314.0,1282.0,11.0,52.0,522,1
+1994,2,Errict Rhett,Tampa Bay Buccaneers,RB,1.0,,16,8,,0,0,0,,,284.0,1011.0,7.0,22.0,119,0
+1994,3,Heath Shuler,Washington Redskins,QB,1.0,,11,8,120.0,265,1658,10,12.0,,26.0,103.0,,,0,0
+1993,1,Jerome Bettis,Los Angeles Rams,RB,72.0,,16,12,,0,0,0,,,294.0,1429.0,7.0,26.0,244,0
+1993,2,Rick Mirer,Seattle Seahawks,QB,8.0,,16,16,274.0,486,2833,12,17.0,,68.0,343.0,3.0,,0,0
+1993,3,Reggie Brooks,Washington Redskins,RB,1.0,,16,11,,0,0,0,,,223.0,1063.0,3.0,21.0,186,0
+1992,1,Carl Pickens,Cincinnati Bengals,WR,22.0,,16,10,,0,0,0,,,,,,26.0,326,1
+1992,2,Vaughn Dunbar,New Orleans Saints,RB,20.0,,16,8,,0,0,0,,,154.0,565.0,3.0,9.0,62,0
+1992,3,Jason Hanson,Detroit Lions,K,8.0,,16,0,,0,0,0,,,,,,,0,0
+1992,4,Troy Auzenne,Chicago Bears,LT,6.0,,16,16,,0,0,0,,,,,,,0,0
+1992,5,David Klingler,Cincinnati Bengals,QB,3.0,,4,4,47.0,98,530,3,2.0,,11.0,53.0,,,0,0
+1992,6,Rodney Culver,Indianapolis Colts,RB,2.0,,16,2,,0,0,0,,,121.0,321.0,7.0,26.0,210,2
+1992,7,Lin Elliott,Dallas Cowboys,K,2.0,,16,0,,0,0,0,,,,,,,0,0
+1992,8,Desmond Howard,Washington Redskins,WR,2.0,,16,1,,0,0,0,,,3.0,14.0,,3.0,20,0
+1992,9,Amp Lee,San Francisco 49ers,RB,2.0,,16,3,,0,0,0,,,91.0,362.0,2.0,20.0,102,2
+1992,10,Johnny Mitchell,New York Jets,TE,1.0,,11,3,,0,0,0,,,,,,16.0,210,1
+1992,11,Tommy Vardell,Cleveland Browns,FB,1.0,,14,10,,0,0,0,,,99.0,369.0,,13.0,128,0
+1991,1,Leonard Russell,New England Patriots,RB,34.0,,16,15,,0,0,0,,,266.0,959.0,4.0,18.0,81,0
+1991,2,Ricky Ervins,Washington Redskins,RB,14.0,,15,0,,0,0,0,,,145.0,680.0,3.0,16.0,181,1
+1991,3,Mike Pritchard,Atlanta Falcons,WR,12.0,,16,11,,0,0,0,,,,,,50.0,624,2
+1991,4,Lawrence Dawsey,Tampa Bay Buccaneers,WR,11.0,,16,10,,0,0,0,,,1.0,9.0,1.0,55.0,818,3
+1991,5,Pat Harlow,New England Patriots,RT,4.0,,16,16,,0,0,0,,,,,,,0,0
+1991,6,Ed King,Cleveland Browns,RG,3.0,,16,15,,0,0,0,,,,,,,0,0
+1991,7,Harvey Williams,Kansas City Chiefs,RB,3.0,,14,1,,1,0,0,,,97.0,447.0,1.0,16.0,147,2
+1991,8,John Kasay,Seattle Seahawks,K,1.0,,16,0,,0,0,0,,,,,,,0,0
+1990,1,Emmitt Smith,Dallas Cowboys,RB,33.0,,16,15,,0,0,0,,,241.0,937.0,11.0,24.0,228,0
+1990,2,Johnny Johnson,Phoenix Cardinals,RB,29.0,,14,14,,1,0,0,1.0,,234.0,926.0,5.0,25.0,241,0
+1990,3,Jeff George,Indianapolis Colts,QB,8.0,,13,12,181.0,334,2152,16,13.0,,11.0,2.0,1.0,,0,0
+1990,4,Richmond Webb,Miami Dolphins,LT,6.0,,16,16,,0,0,0,,,,,,,0,0
+1990,5,Eric Green,Pittsburgh Steelers,te,3.0,,13,6,,0,0,0,,,,,,34.0,387,7
+1990,6,Steve Christie,Tampa Bay Buccaneers,K,1.0,,16,0,,0,0,0,,,,,,,0,0
+1989,1,Barry Sanders,Detroit Lions,RB,69.0,,15,13,,0,0,0,,,280.0,1470.0,14.0,24.0,282,0
+1989,2,Andre Rison,Indianapolis Colts,WR,1.0,,16,13,,0,0,0,,,3.0,18.0,,52.0,820,4
+1988,1,John Stephens,New England Patriots,RB,30.0,,16,14,,0,0,0,,,297.0,1168.0,4.0,14.0,98,0
+1988,2,Keith Jackson,Philadelphia Eagles,TE,29.0,,16,15,,0,0,0,,,,,,81.0,869,6
+1988,3,Ickey Woods,Cincinnati Bengals,FB,15.0,,16,10,,0,0,0,,,203.0,1066.0,15.0,21.0,199,0
+1988,4,Tim Brown,Los Angeles Raiders,WR,4.0,,16,9,,0,0,0,,,14.0,50.0,1.0,43.0,725,5
+1987,1,Troy Stradford,Miami Dolphins,rb,31.0,,12,5,1.0,1,6,0,,,145.0,619.0,6.0,48.0,457,1
+1987,2,Bo Jackson,Los Angeles Raiders,FB,20.0,,7,5,,0,0,0,,,81.0,554.0,4.0,16.0,136,2
+1987,3,Bruce Armstrong,New England Patriots,RT,,,12,12,,0,0,0,,,,,,,0,0
+1987,4,Robert Awalt,St. Louis Cardinals,TE,,,12,9,,0,0,0,,,2.0,-9.0,,42.0,526,6
+1987,5,Harris Barton,San Francisco 49ers,RT,,,12,9,,0,0,0,,,,,,,0,0
+1987,6,Ricky Nattiel,Denver Broncos,WR,,,12,3,,0,0,0,,,2.0,13.0,,31.0,630,2
+1987,7,Christian Okoye,Kansas City Chiefs,FB,,,12,12,,0,0,0,,,157.0,660.0,3.0,24.0,169,0
+1986,1,Rueben Mayes,New Orleans Saints,RB,74.0,,16,12,,0,0,0,,,286.0,1353.0,8.0,17.0,96,0
+1986,2,Jim Everett,Los Angeles Rams,qb,1.0,,6,5,73.0,147,1018,8,8.0,,16.0,46.0,1.0,,0,0
+1986,3,Mark Jackson,Denver Broncos,WR,1.0,,16,1,,0,0,0,,,2.0,6.0,,38.0,738,1
+1986,4,Napoleon McCallum,Los Angeles Raiders,rb,1.0,,15,5,,0,0,0,,,142.0,536.0,1.0,13.0,103,0
+1986,5,Mike Sherrard,Dallas Cowboys,WR,1.0,,16,4,,0,0,0,,,2.0,11.0,,41.0,744,5
+1986,6,John Williams,Seattle Seahawks,FB,1.0,,16,16,,0,0,0,,,129.0,538.0,,33.0,219,0
+1985,1,Eddie Brown,Cincinnati Bengals,WR,22.0,,16,16,,0,0,0,,,14.0,129.0,,53.0,942,8
+1985,2,Kevin Mack,Cleveland Browns,FB,20.0,,16,15,,0,0,0,,,222.0,1104.0,7.0,29.0,297,3
+1985,3,Bill Fralic,Atlanta Falcons,RG,10.0,,15,14,,0,0,0,,,,,,,0,0
+1984,1,Louis Lipps,Pittsburgh Steelers,WR,48.0,,14,8,,0,0,0,,,3.0,71.0,1.0,45.0,860,9
+1984,2,Greg Bell,Buffalo Bills,RB,11.0,,16,15,,0,0,0,,,262.0,1100.0,7.0,34.0,277,1
+1984,3,Daryl Turner,Seattle Seahawks,WR,,,16,8,,0,0,0,,,,,,35.0,715,10
+1983,1,Eric Dickerson,Los Angeles Rams,RB,62.0,,16,16,,0,0,0,,,390.0,1808.0,18.0,51.0,404,2
+1983,2,Dan Marino,Miami Dolphins,QB,19.0,,11,9,173.0,296,2210,20,6.0,,28.0,45.0,2.0,,0,0
+1983,3,Curt Warner,Seattle Seahawks,RB,3.0,,16,16,,0,0,0,,,335.0,1449.0,13.0,42.0,325,1
+1982,1,Marcus Allen,Los Angeles Raiders,RB,84.0,,9,9,1.0,4,47,0,,,160.0,697.0,11.0,38.0,401,3
+1981,1,George Rogers,New Orleans Saints,RB,65.0,,16,16,,0,0,0,,,378.0,1674.0,13.0,16.0,126,0
+1981,2,Cris Collinsworth,Cincinnati Bengals,WR,12.0,,16,16,,0,0,0,,,,,,67.0,1009,8
+1981,3,Joe Delaney,Kansas City Chiefs,RB,7.0,,15,10,,0,0,0,,,234.0,1121.0,3.0,22.0,246,0
+1980,1,Billy Sims,Detroit Lions,RB,53.0,,16,16,,0,0,0,,,313.0,1303.0,13.0,51.0,621,3
+1980,2,Joe Cribbs,Buffalo Bills,RB,24.0,,16,16,1.0,1,13,0,,,306.0,1185.0,11.0,52.0,415,1
+1980,3,David Woodley,Miami Dolphins,QB,3.0,,13,11,176.0,327,1850,14,17.0,,55.0,214.0,3.0,,0,0
