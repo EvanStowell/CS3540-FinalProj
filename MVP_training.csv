@@ -1,0 +1,30 @@
+feature,votes,selected
+Total_Pass_Production,4,True
+Net_Playmaking,4,True
+Rush_YPC,4,True
+Pass_YPA,3,True
+Rec_TD_Rate,3,True
+Elite_Passer,3,True
+Rush_Contribution,3,True
+Scrim_Rushing_Y_A,3,True
+Pass_Rate^2,2,True
+Dual_Threat_QB,2,True
+Pass_Comp_Pct,2,True
+Pass_TD_INT_Ratio,2,True
+Games_Started Pass_Rate,2,True
+Pass_Interceptions,2,True
+Scrim_Scrimmage_RRTD,2,True
+Full_Season,2,True
+Scrim_Receiving_Succ_Pct,2,True
+Rush_Touchdowns,2,True
+Scrim_Scrimmage_Y_Tch,2,True
+Scrim_Rushing_Lng,2,True
+Rec_Yards,1,False
+Pass_Y_per_G,1,False
+Age Pass_Rate,1,False
+Scrim_Receiving_Y_R,1,False
+Pass_Sk,1,False
+Scrim_Scrimmage_YScm,1,False
+Pass_Y_per_C,1,False
+Clutch_Factor,1,False
+Pass_TD_Rate,1,False

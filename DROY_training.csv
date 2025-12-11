@@ -1,0 +1,14 @@
+feature,votes,selected
+Disruption_Score,4,True
+GS^2,4,True
+Def_QBHits,4,True
+Def_Comb^2,4,True
+Def_FR,4,True
+Def_TFL,4,True
+Def_Comb Def_Ast,3,True
+Def_PD,3,True
+Impact_Game_Flag,3,True
+Def_FF,3,True
+G^2,3,True
+Full_Season,3,True
+Solo_Tackle_Pct,3,True

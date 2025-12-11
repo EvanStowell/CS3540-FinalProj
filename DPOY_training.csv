@@ -1,0 +1,26 @@
+feature,votes,selected
+Dominance_Score,4,True
+FF,4,True
+Impact_Plays,4,True
+Int_Yds,4,True
+FR,3,True
+Disruption_Score,3,True
+Double_Digit_Sacks,3,True
+Sack_Conv_Rate,3,True
+QBHits,3,True
+TFL,3,True
+Solo_Tackle_Pct,3,True
+Int,3,True
+GS^2,2,True
+Comb^2,2,True
+Ast,2,True
+Turnover_Creator,2,True
+Age G,2,True
+Age^2,2,True
+PD,2,True
+Impact_Game_Flag,1,False
+G^2,1,False
+Sfty,1,False
+Full_Season,1,False
+Int_TD,1,False
+Age GS,1,False

@@ -1,0 +1,26 @@
+feature,votes,selected
+Pass_YPA,4,True
+Rush_Yds,4,True
+Total_Yards,4,True
+Total_TD,4,True
+Total_TDs,3,True
+PFR_Age GS,3,True
+PFR_Age^2,3,True
+Rush_TD,3,True
+Rush_YPC,3,True
+Rec,3,True
+1000_Rush_Yards,2,True
+Pass_Comp_Pct,2,True
+Pass_TD_INT_Ratio,2,True
+Likely_RB,2,True
+Rec_YPR,2,True
+GS Pass_Cmp,2,True
+1000_Rec_Yards,2,True
+Rush_TD_Rate,2,True
+Pass_Int,2,True
+Pass_Att^2,1,False
+Likely_WR,1,False
+Pass_TD_Rate,1,False
+Pass_Cmp^2,1,False
+Rec_TD_Rate,1,False
+Rec_Yds,1,False
